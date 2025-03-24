@@ -48,7 +48,7 @@
             bindings = <
 &kp TAB         &trans        &trans        &trans        &trans              &bt BT_CLR          &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4  &kp BACKSPACE
 &kp LEFT_GUI    &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4        &kp NUMBER_5        &kp NUMBER_6  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp NUMBER_0  &kp ENTER
-&kp LEFT_SHIFT  &trans        &trans        &kp SPACE     &kp KP_SLASH        &trans              &kp SLASH     &trans        &trans        &trans        &trans        &trans
+&kp LEFT_SHIFT  &trans        &trans        &kp SPACE     &kp KP_SLASH        &trans              &trans        &trans        &trans        &trans        &trans        &trans
                                             &kp LCTRL     &mt LEFT_ALT SPACE  &kp LC(LEFT_ALT)    &trans        &trans        &trans
             >;
         };
